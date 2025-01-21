@@ -1,0 +1,11 @@
+*{
+    margin: 40px;
+    background-color: antiquewhite;
+}
+
+#id{
+    display: grid;
+    grid-auto-flow: column;
+    columns: 2;
+    
+}
