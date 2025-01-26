@@ -1,11 +1,8 @@
 *{
     margin: 40px;
-    background-color: antiquewhite;
+    background-color: #9ed1b7;
 }
 
-#id{
-    display: grid;
-    grid-auto-flow: column;
-    columns: 2;
-    
+header{
+    align-items: center;
 }
